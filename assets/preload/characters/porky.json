@@ -1,0 +1,95 @@
+{
+	"animations": [
+
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "porky left0",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "porky down0",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "porky up0",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "porky right0",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "porky idle0",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "porky leftsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "porky downsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "porky upsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "porky rightsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "idleALT",
+			"fps": 24,
+			"name": "porky idlesmirk",
+			"indices": []
+		}
+		
+		
+	],
+	"no_antialiasing": false,
+	"image": "characters/porky",
+	"position": [],
+	"healthicon": "porky",
+	"flip_x": false,
+	"healthbar_colors": [184,192,192],
+	"camera_position": [],
+	"sing_duration": 4
+}

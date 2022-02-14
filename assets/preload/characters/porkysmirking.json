@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "porky idle0",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "porky leftsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "porky downsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "porky upsmirk",
+			"indices": []
+		},
+		{
+			"offsets": [],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "porky rightsmirk",
+			"indices": []
+		}
+		
+		
+		
+	],
+	"no_antialiasing": false,
+	"image": "characters/pokrysmirk",
+	"position": [],
+	"healthicon": "porky",
+	"flip_x": false,
+	"healthbar_colors": [184,192,192],
+	"camera_position": [],
+	"sing_duration": 4
+}
